@@ -1,0 +1,3 @@
+html { position: relative; min-height: 100%;} body { padding-top: 70px; padding-bottom: 30px;}
+.theme-showcase > p > .btn { margin: 5px 0;} /* Sticky footer styles -------------------------------------------------- */
+.footer { position: absolute; bottom: 0; width: 100%; height: 50px; /* Set the fixed height of the footer here */line-height: 50px; /* Vertically center the text there */ background-color: #f1f1f1;}
